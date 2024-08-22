@@ -46,7 +46,7 @@ export default function LandingPage() {
           </p>
           <div className="flex flex-row space-x-4">
             <a
-              href="https://discord.gg/WbReJXYX"
+              href="https://app.krausehouse.club/mint"
               className="hover:underline"
               target="_blank"
               rel="noopener noreferrer"
